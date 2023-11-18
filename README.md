@@ -44,7 +44,7 @@ After cloning the repo, go to [OpenAI](https://beta.openai.com/account/api-keys)
 
 Then, run the application in the command line and it will be available at `http://localhost:3000`.
 
-[specific running procedure is described in this document - Chinese version](./deploy-ch.md)
+[部署文档（中文）](./deploy-ch.md)
 
 ```bash
 npm run dev
